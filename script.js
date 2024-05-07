@@ -9,4 +9,5 @@ const hours = date.getHours();
 const minutes = date.getMinutes();
 
 
-const formattedDate = `${day}-${month}- ${year}`;
+const formattedDate = `${day}-${month}-${year}`;
+console.log(formattedDate);
